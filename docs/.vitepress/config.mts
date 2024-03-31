@@ -39,8 +39,8 @@ export default defineConfig({
         },
         // https://vitepress.dev/zh/reference/default-theme-config#sociallinks
         // 可以定义此选项以在导航栏中展示带有图标的社交帐户链接
-        socialLinks: [
-            { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-        ],
+        // socialLinks: [
+        //     { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+        // ],
     },
 })
