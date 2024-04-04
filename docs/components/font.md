@@ -1,10 +1,10 @@
-# 前端工程化之路：字体规范 {#字体规范}
+# 字体规范 {#字体规范}
 
 ## 定级
 
 根据常用的字体大小，将其分为 4 个等级，分别是 Display、Headline、Body、Caption 级别。其中 Display、Headline、Body 拥有三个大小：L、S、M，caption 拥有两个大小：S、M。
 
-### Display
+## Display
 
 主要用于数据展示，如图表数据的展示等。
 
@@ -18,7 +18,7 @@
 | font-display-S  | 36   | 52   | 500  |
 | font-display-XS | 24   | 40   | 500  |
 
-### Headline
+## Headline
 
 主要用于界面标题，如对话框、抽屉标题等。
 
@@ -34,7 +34,7 @@
 | font-headline-XS  | 14   | 22   | 500  |
 | font-headline-XXS | 12   | 20   | 500  |
 
-### Body
+## Body
 
 最常用的字体，默认是 14px。
 
@@ -48,7 +48,7 @@
 | font-body-M | 14   | 22   | 400  |
 | font-body-S | 12   | 20   | 400  |
 
-### Caption
+## Caption
 
 在端侧是 12px，移动侧是 10px。
 
